@@ -2,3 +2,7 @@
 contacts.vcf
 contacts.csv
 NewContacts.csv
+*.vcf
+*.csv
+old input/.DS_Store
+contacts parts/.DS_Store
